@@ -37,3 +37,11 @@ Solutions are organized by core computer science concepts and data structures:
 
 * **LeetCode:** [harimanam_18](https://leetcode.com/u/harimanam_18)
 * **GitHub:** [Hari-Krishna-9999](https://github.com/Hari-Krishna-9999)
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Database
+|  |
+| ------- |
+| [0181-employees-earning-more-than-their-managers](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0181-employees-earning-more-than-their-managers) |
+<!---LeetCode Topics End-->
