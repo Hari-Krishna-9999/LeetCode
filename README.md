@@ -60,6 +60,7 @@ Solutions are organized by core computer science concepts and data structures:
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0739-daily-temperatures](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0739-daily-temperatures) |
 ## Math
 |  |
 | ------- |
@@ -68,4 +69,9 @@ Solutions are organized by core computer science concepts and data structures:
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0739-daily-temperatures](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0739-daily-temperatures) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
