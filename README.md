@@ -61,6 +61,7 @@ Solutions are organized by core computer science concepts and data structures:
 | ------- |
 | [0045-jump-game-ii](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0055-jump-game) |
+| [0057-insert-interval](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0057-insert-interval) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0435-non-overlapping-intervals](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0496-next-greater-element-i](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0496-next-greater-element-i) |
