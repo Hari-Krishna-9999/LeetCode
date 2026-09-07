@@ -75,12 +75,14 @@ Solutions are organized by core computer science concepts and data structures:
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0402-remove-k-digits](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0739-daily-temperatures) |
@@ -95,6 +97,7 @@ Solutions are organized by core computer science concepts and data structures:
 | ------- |
 | [0045-jump-game-ii](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0055-jump-game) |
+| [0402-remove-k-digits](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0435-non-overlapping-intervals) |
 ## Hash Table
 |  |
@@ -104,4 +107,8 @@ Solutions are organized by core computer science concepts and data structures:
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0435-non-overlapping-intervals) |
+## String
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
