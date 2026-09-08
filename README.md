@@ -63,6 +63,7 @@ Solutions are organized by core computer science concepts and data structures:
 | [0055-jump-game](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0057-insert-interval) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0435-non-overlapping-intervals](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0496-next-greater-element-i](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -77,6 +78,7 @@ Solutions are organized by core computer science concepts and data structures:
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0402-remove-k-digits](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -87,6 +89,7 @@ Solutions are organized by core computer science concepts and data structures:
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0503-next-greater-element-ii) |
@@ -96,6 +99,7 @@ Solutions are organized by core computer science concepts and data structures:
 | ------- |
 | [0045-jump-game-ii](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0055-jump-game) |
+| [0085-maximal-rectangle](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0435-non-overlapping-intervals](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0435-non-overlapping-intervals) |
 ## Greedy
 |  |
@@ -124,4 +128,8 @@ Solutions are organized by core computer science concepts and data structures:
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+## Matrix
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
