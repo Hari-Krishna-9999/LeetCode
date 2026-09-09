@@ -78,6 +78,7 @@ Solutions are organized by core computer science concepts and data structures:
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -120,6 +121,7 @@ Solutions are organized by core computer science concepts and data structures:
 ## String
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0071-simplify-path) |
 | [0402-remove-k-digits](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0402-remove-k-digits) |
 ## Simulation
 |  |
