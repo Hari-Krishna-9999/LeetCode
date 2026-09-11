@@ -113,6 +113,7 @@ Solutions are organized by core computer science concepts and data structures:
 ## Hash Table
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0496-next-greater-element-i](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0496-next-greater-element-i) |
 ## Sorting
 |  |
@@ -156,6 +157,7 @@ Solutions are organized by core computer science concepts and data structures:
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0141-linked-list-cycle](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
@@ -166,5 +168,10 @@ Solutions are organized by core computer science concepts and data structures:
 ## Two Pointers
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0876-middle-of-the-linked-list](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0876-middle-of-the-linked-list) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
