@@ -81,6 +81,7 @@ Solutions are organized by core computer science concepts and data structures:
 | [0071-simplify-path](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0085-maximal-rectangle) |
+| [0143-reorder-list](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0402-remove-k-digits) |
@@ -161,6 +162,7 @@ Solutions are organized by core computer science concepts and data structures:
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0234-palindrome-linked-list) |
@@ -169,6 +171,7 @@ Solutions are organized by core computer science concepts and data structures:
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0143-reorder-list](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Two Pointers
@@ -176,6 +179,7 @@ Solutions are organized by core computer science concepts and data structures:
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0876-middle-of-the-linked-list) |
