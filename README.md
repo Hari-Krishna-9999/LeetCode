@@ -47,6 +47,7 @@ Solutions are organized by core computer science concepts and data structures:
 ## Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -55,6 +56,7 @@ Solutions are organized by core computer science concepts and data structures:
 ## Binary Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 ## Array
 |  |
@@ -195,4 +197,12 @@ Solutions are organized by core computer science concepts and data structures:
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0141-linked-list-cycle) |
+## Depth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
