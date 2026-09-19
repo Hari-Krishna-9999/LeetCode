@@ -54,6 +54,7 @@ Solutions are organized by core computer science concepts and data structures:
 | [0111-minimum-depth-of-binary-tree](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 ## Binary Search Tree
@@ -70,6 +71,7 @@ Solutions are organized by core computer science concepts and data structures:
 | [0111-minimum-depth-of-binary-tree](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 ## Array
@@ -220,6 +222,7 @@ Solutions are organized by core computer science concepts and data structures:
 | [0111-minimum-depth-of-binary-tree](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -232,4 +235,8 @@ Solutions are organized by core computer science concepts and data structures:
 | [0199-binary-tree-right-side-view](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
