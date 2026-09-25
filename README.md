@@ -52,6 +52,7 @@ Solutions are organized by core computer science concepts and data structures:
 | [0101-symmetric-tree](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0112-path-sum) |
@@ -79,6 +80,7 @@ Solutions are organized by core computer science concepts and data structures:
 | [0101-symmetric-tree](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0112-path-sum) |
@@ -99,6 +101,7 @@ Solutions are organized by core computer science concepts and data structures:
 | [0057-insert-interval](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0057-insert-interval) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0085-maximal-rectangle) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0239-sliding-window-maximum](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0435-non-overlapping-intervals](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0435-non-overlapping-intervals) |
@@ -151,6 +154,7 @@ Solutions are organized by core computer science concepts and data structures:
 ## Hash Table
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -280,4 +284,8 @@ Solutions are organized by core computer science concepts and data structures:
 |  |
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 <!---LeetCode Topics End-->
