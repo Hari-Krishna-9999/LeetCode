@@ -65,6 +65,7 @@ Solutions are organized by core computer science concepts and data structures:
 | [0543-diameter-of-binary-tree](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -72,6 +73,7 @@ Solutions are organized by core computer science concepts and data structures:
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Tree
 |  |
 | ------- |
@@ -93,6 +95,7 @@ Solutions are organized by core computer science concepts and data structures:
 | [0543-diameter-of-binary-tree](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Array
 |  |
 | ------- |
@@ -197,6 +200,7 @@ Solutions are organized by core computer science concepts and data structures:
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -287,6 +291,7 @@ Solutions are organized by core computer science concepts and data structures:
 |  |
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -296,4 +301,8 @@ Solutions are organized by core computer science concepts and data structures:
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+## Data Stream
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
