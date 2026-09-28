@@ -169,6 +169,7 @@ Solutions are organized by core computer science concepts and data structures:
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0435-non-overlapping-intervals) |
 ## String
@@ -203,6 +204,7 @@ Solutions are organized by core computer science concepts and data structures:
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0295-find-median-from-data-stream](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Monotonic Queue
@@ -241,6 +243,7 @@ Solutions are organized by core computer science concepts and data structures:
 | [0143-reorder-list](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0295-find-median-from-data-stream](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0876-middle-of-the-linked-list](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -294,6 +297,7 @@ Solutions are organized by core computer science concepts and data structures:
 ## Design
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Divide and Conquer
@@ -310,6 +314,7 @@ Solutions are organized by core computer science concepts and data structures:
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Bucket Sort
 |  |
