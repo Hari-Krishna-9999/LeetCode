@@ -72,6 +72,7 @@ Solutions are organized by core computer science concepts and data structures:
 | [0098-validate-binary-search-tree](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Tree
@@ -109,6 +110,7 @@ Solutions are organized by core computer science concepts and data structures:
 | [0215-kth-largest-element-in-an-array](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0435-non-overlapping-intervals](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0496-next-greater-element-i](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0503-next-greater-element-ii) |
@@ -171,6 +173,7 @@ Solutions are organized by core computer science concepts and data structures:
 | [0215-kth-largest-element-in-an-array](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0435-non-overlapping-intervals](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0435-non-overlapping-intervals) |
 ## String
 |  |
@@ -191,6 +194,7 @@ Solutions are organized by core computer science concepts and data structures:
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0085-maximal-rectangle) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Queue
 |  |
 | ------- |
@@ -206,6 +210,7 @@ Solutions are organized by core computer science concepts and data structures:
 | [0239-sliding-window-maximum](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Monotonic Queue
 |  |
