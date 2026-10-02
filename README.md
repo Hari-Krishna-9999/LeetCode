@@ -163,6 +163,7 @@ Solutions are organized by core computer science concepts and data structures:
 | [0402-remove-k-digits](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0455-assign-cookies) |
+| [0763-partition-labels](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0763-partition-labels) |
 | [0860-lemonade-change](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0860-lemonade-change) |
 ## Hash Table
 |  |
@@ -173,6 +174,7 @@ Solutions are organized by core computer science concepts and data structures:
 | [0160-intersection-of-two-linked-lists](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0347-top-k-frequent-elements](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0763-partition-labels](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0763-partition-labels) |
 ## Sorting
 |  |
 | ------- |
@@ -188,6 +190,7 @@ Solutions are organized by core computer science concepts and data structures:
 | [0071-simplify-path](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0071-simplify-path) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0402-remove-k-digits](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0402-remove-k-digits) |
+| [0763-partition-labels](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0763-partition-labels) |
 ## Simulation
 |  |
 | ------- |
@@ -259,6 +262,7 @@ Solutions are organized by core computer science concepts and data structures:
 | [0234-palindrome-linked-list](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0295-find-median-from-data-stream](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0455-assign-cookies) |
+| [0763-partition-labels](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0763-partition-labels) |
 | [0876-middle-of-the-linked-list](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
