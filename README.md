@@ -122,6 +122,7 @@ Solutions are organized by core computer science concepts and data structures:
 | [0735-asteroid-collision](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0739-daily-temperatures) |
 | [0860-lemonade-change](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0860-lemonade-change) |
+| [0881-boats-to-save-people](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0881-boats-to-save-people) |
 ## Math
 |  |
 | ------- |
@@ -171,6 +172,7 @@ Solutions are organized by core computer science concepts and data structures:
 | [0455-assign-cookies](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0455-assign-cookies) |
 | [0763-partition-labels](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0763-partition-labels) |
 | [0860-lemonade-change](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0860-lemonade-change) |
+| [0881-boats-to-save-people](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0881-boats-to-save-people) |
 ## Hash Table
 |  |
 | ------- |
@@ -191,6 +193,7 @@ Solutions are organized by core computer science concepts and data structures:
 | [0435-non-overlapping-intervals](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0455-assign-cookies) |
+| [0881-boats-to-save-people](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0881-boats-to-save-people) |
 ## String
 |  |
 | ------- |
@@ -271,6 +274,7 @@ Solutions are organized by core computer science concepts and data structures:
 | [0455-assign-cookies](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0455-assign-cookies) |
 | [0763-partition-labels](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0763-partition-labels) |
 | [0876-middle-of-the-linked-list](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0876-middle-of-the-linked-list) |
+| [0881-boats-to-save-people](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0881-boats-to-save-people) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -372,4 +376,8 @@ Solutions are organized by core computer science concepts and data structures:
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0322-coin-change) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
