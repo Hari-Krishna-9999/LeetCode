@@ -103,6 +103,7 @@ Solutions are organized by core computer science concepts and data structures:
 | [0045-jump-game-ii](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0057-insert-interval) |
+| [0078-subsets](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -384,4 +385,12 @@ Solutions are organized by core computer science concepts and data structures:
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0881-boats-to-save-people) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
