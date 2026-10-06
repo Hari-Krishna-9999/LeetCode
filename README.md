@@ -101,6 +101,7 @@ Solutions are organized by core computer science concepts and data structures:
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0057-insert-interval) |
 | [0078-subsets](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0078-subsets) |
@@ -391,6 +392,7 @@ Solutions are organized by core computer science concepts and data structures:
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
