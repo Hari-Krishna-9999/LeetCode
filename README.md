@@ -399,6 +399,7 @@ Solutions are organized by core computer science concepts and data structures:
 | ------- |
 | [0046-permutations](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0047-permutations-ii) |
+| [0077-combinations](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
