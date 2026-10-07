@@ -100,6 +100,7 @@ Solutions are organized by core computer science concepts and data structures:
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0039-combination-sum) |
 | [0045-jump-game-ii](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0047-permutations-ii) |
@@ -397,6 +398,7 @@ Solutions are organized by core computer science concepts and data structures:
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0077-combinations) |
