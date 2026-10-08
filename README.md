@@ -163,6 +163,7 @@ Solutions are organized by core computer science concepts and data structures:
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0085-maximal-rectangle) |
@@ -214,6 +215,7 @@ Solutions are organized by core computer science concepts and data structures:
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0022-generate-parentheses) |
 | [0071-simplify-path](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0071-simplify-path) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0402-remove-k-digits](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0402-remove-k-digits) |
@@ -402,6 +404,7 @@ Solutions are organized by core computer science concepts and data structures:
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0046-permutations) |
@@ -414,4 +417,8 @@ Solutions are organized by core computer science concepts and data structures:
 | ------- |
 | [0078-subsets](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0090-subsets-ii) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
