@@ -187,6 +187,7 @@ Solutions are organized by core computer science concepts and data structures:
 ## Hash Table
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0141-linked-list-cycle) |
@@ -212,6 +213,7 @@ Solutions are organized by core computer science concepts and data structures:
 ## String
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0071-simplify-path](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0071-simplify-path) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0402-remove-k-digits](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0402-remove-k-digits) |
@@ -399,6 +401,7 @@ Solutions are organized by core computer science concepts and data structures:
 ## Backtracking
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0046-permutations) |
