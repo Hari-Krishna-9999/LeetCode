@@ -218,6 +218,7 @@ Solutions are organized by core computer science concepts and data structures:
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0022-generate-parentheses) |
 | [0071-simplify-path](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0071-simplify-path) |
+| [0093-restore-ip-addresses](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0093-restore-ip-addresses) |
 | [0131-palindrome-partitioning](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0402-remove-k-digits](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0402-remove-k-digits) |
@@ -414,6 +415,7 @@ Solutions are organized by core computer science concepts and data structures:
 | [0077-combinations](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0090-subsets-ii) |
+| [0093-restore-ip-addresses](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0093-restore-ip-addresses) |
 | [0131-palindrome-partitioning](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0131-palindrome-partitioning) |
 ## Bit Manipulation
 |  |
