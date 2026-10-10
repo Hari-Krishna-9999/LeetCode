@@ -108,6 +108,7 @@ Solutions are organized by core computer science concepts and data structures:
 | [0055-jump-game](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0057-insert-interval) |
 | [0078-subsets](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0090-subsets-ii) |
@@ -218,6 +219,7 @@ Solutions are organized by core computer science concepts and data structures:
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0022-generate-parentheses) |
 | [0071-simplify-path](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0071-simplify-path) |
+| [0079-word-search](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0093-restore-ip-addresses) |
 | [0131-palindrome-partitioning](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -235,6 +237,7 @@ Solutions are organized by core computer science concepts and data structures:
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Queue
@@ -305,6 +308,7 @@ Solutions are organized by core computer science concepts and data structures:
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0101-symmetric-tree) |
@@ -414,6 +418,7 @@ Solutions are organized by core computer science concepts and data structures:
 | [0047-permutations-ii](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0093-restore-ip-addresses) |
 | [0131-palindrome-partitioning](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0131-palindrome-partitioning) |
