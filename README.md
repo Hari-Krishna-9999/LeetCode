@@ -195,6 +195,7 @@ Solutions are organized by core computer science concepts and data structures:
 | [0138-copy-list-with-random-pointer](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0208-implement-trie-prefix-tree](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0219-contains-duplicate-ii](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -222,6 +223,7 @@ Solutions are organized by core computer science concepts and data structures:
 | [0079-word-search](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0093-restore-ip-addresses) |
 | [0131-palindrome-partitioning](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0131-palindrome-partitioning) |
+| [0208-implement-trie-prefix-tree](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0402-remove-k-digits](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0402-remove-k-digits) |
 | [0763-partition-labels](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0763-partition-labels) |
@@ -355,6 +357,7 @@ Solutions are organized by core computer science concepts and data structures:
 ## Design
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0295-find-median-from-data-stream](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -431,4 +434,8 @@ Solutions are organized by core computer science concepts and data structures:
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0022-generate-parentheses) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
