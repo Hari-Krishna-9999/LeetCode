@@ -101,6 +101,7 @@ Solutions are organized by core computer science concepts and data structures:
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0045-jump-game-ii) |
@@ -193,6 +194,7 @@ Solutions are organized by core computer science concepts and data structures:
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0037-sudoku-solver) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0141-linked-list-cycle) |
@@ -243,6 +245,7 @@ Solutions are organized by core computer science concepts and data structures:
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -421,6 +424,7 @@ Solutions are organized by core computer science concepts and data structures:
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0046-permutations) |
@@ -445,4 +449,12 @@ Solutions are organized by core computer science concepts and data structures:
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
