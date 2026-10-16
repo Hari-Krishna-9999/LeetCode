@@ -132,6 +132,7 @@ Solutions are organized by core computer science concepts and data structures:
 | [0496-next-greater-element-i](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0624-maximum-distance-in-arrays](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
+| [0695-max-area-of-island](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0739-daily-temperatures) |
@@ -254,6 +255,7 @@ Solutions are organized by core computer science concepts and data structures:
 | [0085-maximal-rectangle](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0695-max-area-of-island](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0733-flood-fill) |
 ## Queue
 |  |
@@ -342,6 +344,7 @@ Solutions are organized by core computer science concepts and data structures:
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0695-max-area-of-island](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0733-flood-fill) |
 ## Breadth-First Search
 |  |
@@ -359,6 +362,7 @@ Solutions are organized by core computer science concepts and data structures:
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0322-coin-change) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0695-max-area-of-island](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0733-flood-fill) |
 ## DP on Trees
 |  |
@@ -474,6 +478,7 @@ Solutions are organized by core computer science concepts and data structures:
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0695-max-area-of-island) |
 ## Graph Theory
 |  |
 | ------- |
