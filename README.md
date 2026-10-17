@@ -131,6 +131,7 @@ Solutions are organized by core computer science concepts and data structures:
 | [0455-assign-cookies](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [0542-01-matrix](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0542-01-matrix) |
 | [0624-maximum-distance-in-arrays](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0695-max-area-of-island](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0733-flood-fill) |
@@ -179,6 +180,7 @@ Solutions are organized by core computer science concepts and data structures:
 | [0131-palindrome-partitioning](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0322-coin-change](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0435-non-overlapping-intervals) |
+| [0542-01-matrix](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0542-01-matrix) |
 ## Greedy
 |  |
 | ------- |
@@ -256,6 +258,7 @@ Solutions are organized by core computer science concepts and data structures:
 | [0085-maximal-rectangle](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0542-01-matrix](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0994-rotting-oranges) |
@@ -363,6 +366,7 @@ Solutions are organized by core computer science concepts and data structures:
 | [0226-invert-binary-tree](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0322-coin-change) |
+| [0542-01-matrix](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0542-01-matrix) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0695-max-area-of-island](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0733-flood-fill) |
