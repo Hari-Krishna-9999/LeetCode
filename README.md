@@ -139,6 +139,7 @@ Solutions are organized by core computer science concepts and data structures:
 | [0846-hand-of-straights](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0881-boats-to-save-people) |
+| [0994-rotting-oranges](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0994-rotting-oranges) |
 ## Math
 |  |
 | ------- |
@@ -257,6 +258,7 @@ Solutions are organized by core computer science concepts and data structures:
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0695-max-area-of-island](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0994-rotting-oranges) |
 ## Queue
 |  |
 | ------- |
@@ -364,6 +366,7 @@ Solutions are organized by core computer science concepts and data structures:
 | [0637-average-of-levels-in-binary-tree](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0695-max-area-of-island](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0994-rotting-oranges) |
 ## DP on Trees
 |  |
 | ------- |
