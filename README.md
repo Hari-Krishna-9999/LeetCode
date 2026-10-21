@@ -360,6 +360,7 @@ Solutions are organized by core computer science concepts and data structures:
 | [0695-max-area-of-island](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0785-is-graph-bipartite) |
+| [0886-possible-bipartition](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0886-possible-bipartition) |
 | [2685-count-the-number-of-complete-components](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
@@ -385,6 +386,7 @@ Solutions are organized by core computer science concepts and data structures:
 | [0695-max-area-of-island](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0785-is-graph-bipartite) |
+| [0886-possible-bipartition](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0886-possible-bipartition) |
 | [0994-rotting-oranges](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0994-rotting-oranges) |
 | [2685-count-the-number-of-complete-components](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 ## DP on Trees
@@ -504,6 +506,7 @@ Solutions are organized by core computer science concepts and data structures:
 | [0200-number-of-islands](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0785-is-graph-bipartite) |
+| [0886-possible-bipartition](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0886-possible-bipartition) |
 | [2685-count-the-number-of-complete-components](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 ## Graph Theory
 |  |
@@ -512,6 +515,7 @@ Solutions are organized by core computer science concepts and data structures:
 | [0207-course-schedule](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0785-is-graph-bipartite](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0785-is-graph-bipartite) |
+| [0886-possible-bipartition](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0886-possible-bipartition) |
 | [2685-count-the-number-of-complete-components](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 ## Topological Sort
 |  |
@@ -526,8 +530,10 @@ Solutions are organized by core computer science concepts and data structures:
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0785-is-graph-bipartite) |
+| [0886-possible-bipartition](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0886-possible-bipartition) |
 ## Bipartite Graph
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0785-is-graph-bipartite) |
+| [0886-possible-bipartition](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0886-possible-bipartition) |
 <!---LeetCode Topics End-->
