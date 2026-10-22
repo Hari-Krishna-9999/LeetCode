@@ -139,6 +139,7 @@ Solutions are organized by core computer science concepts and data structures:
 | [0733-flood-fill](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0739-daily-temperatures) |
+| [0752-open-the-lock](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0752-open-the-lock) |
 | [0846-hand-of-straights](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0881-boats-to-save-people) |
@@ -214,6 +215,7 @@ Solutions are organized by core computer science concepts and data structures:
 | [0219-contains-duplicate-ii](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0752-open-the-lock](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0752-open-the-lock) |
 | [0763-partition-labels](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0763-partition-labels) |
 | [0846-hand-of-straights](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0846-hand-of-straights) |
 ## Sorting
@@ -243,6 +245,7 @@ Solutions are organized by core computer science concepts and data structures:
 | [0211-design-add-and-search-words-data-structure](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0402-remove-k-digits](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0402-remove-k-digits) |
+| [0752-open-the-lock](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0752-open-the-lock) |
 | [0763-partition-labels](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0763-partition-labels) |
 ## Simulation
 |  |
@@ -388,6 +391,7 @@ Solutions are organized by core computer science concepts and data structures:
 | [0637-average-of-levels-in-binary-tree](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0695-max-area-of-island](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0733-flood-fill) |
+| [0752-open-the-lock](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0752-open-the-lock) |
 | [0785-is-graph-bipartite](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0886-possible-bipartition](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0886-possible-bipartition) |
 | [0994-rotting-oranges](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0994-rotting-oranges) |
@@ -543,4 +547,5 @@ Solutions are organized by core computer science concepts and data structures:
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0127-word-ladder) |
+| [0752-open-the-lock](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0752-open-the-lock) |
 <!---LeetCode Topics End-->
