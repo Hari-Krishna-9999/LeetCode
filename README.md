@@ -75,6 +75,7 @@ Solutions are organized by core computer science concepts and data structures:
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1631-path-with-minimum-effort](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/1631-path-with-minimum-effort) |
 ## Binary Tree
 |  |
 | ------- |
@@ -144,6 +145,7 @@ Solutions are organized by core computer science concepts and data structures:
 | [0860-lemonade-change](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0994-rotting-oranges](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0994-rotting-oranges) |
+| [1631-path-with-minimum-effort](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/1631-path-with-minimum-effort) |
 ## Math
 |  |
 | ------- |
@@ -271,6 +273,7 @@ Solutions are organized by core computer science concepts and data structures:
 | [0695-max-area-of-island](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0994-rotting-oranges) |
+| [1631-path-with-minimum-effort](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/1631-path-with-minimum-effort) |
 ## Queue
 |  |
 | ------- |
@@ -290,6 +293,7 @@ Solutions are organized by core computer science concepts and data structures:
 | [0347-top-k-frequent-elements](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1631-path-with-minimum-effort](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/1631-path-with-minimum-effort) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -367,6 +371,7 @@ Solutions are organized by core computer science concepts and data structures:
 | [0733-flood-fill](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0886-possible-bipartition](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0886-possible-bipartition) |
+| [1631-path-with-minimum-effort](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [2685-count-the-number-of-complete-components](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
@@ -397,6 +402,7 @@ Solutions are organized by core computer science concepts and data structures:
 | [0785-is-graph-bipartite](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0886-possible-bipartition](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0886-possible-bipartition) |
 | [0994-rotting-oranges](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0994-rotting-oranges) |
+| [1631-path-with-minimum-effort](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [2685-count-the-number-of-complete-components](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 ## DP on Trees
 |  |
@@ -517,6 +523,7 @@ Solutions are organized by core computer science concepts and data structures:
 | [0695-max-area-of-island](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0886-possible-bipartition](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0886-possible-bipartition) |
+| [1631-path-with-minimum-effort](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [2685-count-the-number-of-complete-components](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 ## Graph Theory
 |  |
@@ -552,4 +559,8 @@ Solutions are organized by core computer science concepts and data structures:
 | ------- |
 | [0127-word-ladder](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0127-word-ladder) |
 | [0752-open-the-lock](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0752-open-the-lock) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [1631-path-with-minimum-effort](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
