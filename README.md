@@ -293,6 +293,7 @@ Solutions are organized by core computer science concepts and data structures:
 | [0347-top-k-frequent-elements](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0743-network-delay-time](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0743-network-delay-time) |
 | [1631-path-with-minimum-effort](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/1631-path-with-minimum-effort) |
 ## Monotonic Queue
 |  |
@@ -369,6 +370,7 @@ Solutions are organized by core computer science concepts and data structures:
 | [0637-average-of-levels-in-binary-tree](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0695-max-area-of-island](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0886-possible-bipartition](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0886-possible-bipartition) |
 | [1462-course-schedule-iv](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/1462-course-schedule-iv) |
@@ -399,6 +401,7 @@ Solutions are organized by core computer science concepts and data structures:
 | [0637-average-of-levels-in-binary-tree](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0695-max-area-of-island](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0743-network-delay-time) |
 | [0752-open-the-lock](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0752-open-the-lock) |
 | [0785-is-graph-bipartite](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0886-possible-bipartition](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0886-possible-bipartition) |
@@ -534,6 +537,7 @@ Solutions are organized by core computer science concepts and data structures:
 | [0207-course-schedule](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0886-possible-bipartition](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0886-possible-bipartition) |
 | [1462-course-schedule-iv](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/1462-course-schedule-iv) |
@@ -566,5 +570,10 @@ Solutions are organized by core computer science concepts and data structures:
 ## Dijkstra's Algorithm
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0743-network-delay-time) |
 | [1631-path-with-minimum-effort](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/1631-path-with-minimum-effort) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
