@@ -145,6 +145,7 @@ Solutions are organized by core computer science concepts and data structures:
 | [0860-lemonade-change](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0994-rotting-oranges](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0994-rotting-oranges) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/1631-path-with-minimum-effort) |
 ## Math
 |  |
@@ -528,6 +529,7 @@ Solutions are organized by core computer science concepts and data structures:
 | [0695-max-area-of-island](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0886-possible-bipartition](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0886-possible-bipartition) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [2685-count-the-number-of-complete-components](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 ## Graph Theory
@@ -541,6 +543,7 @@ Solutions are organized by core computer science concepts and data structures:
 | [0785-is-graph-bipartite](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0886-possible-bipartition](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0886-possible-bipartition) |
 | [1462-course-schedule-iv](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/1462-course-schedule-iv) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
 | [2685-count-the-number-of-complete-components](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 ## Topological Sort
 |  |
@@ -576,4 +579,20 @@ Solutions are organized by core computer science concepts and data structures:
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0743-network-delay-time) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
+## Prim's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
+## Kruskal's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
+## Borůvka's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
