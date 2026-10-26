@@ -438,6 +438,7 @@ Solutions are organized by core computer science concepts and data structures:
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0191-number-of-1-bits](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
@@ -505,6 +506,7 @@ Solutions are organized by core computer science concepts and data structures:
 | [0078-subsets](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0191-number-of-1-bits) |
 ## Bracket Sequences
 |  |
 | ------- |
