@@ -119,6 +119,7 @@ Solutions are organized by core computer science concepts and data structures:
 | [0120-triangle](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0120-triangle) |
 | [0130-surrounded-regions](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0134-gas-station) |
+| [0136-single-number](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0200-number-of-islands](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -503,6 +504,7 @@ Solutions are organized by core computer science concepts and data structures:
 | ------- |
 | [0078-subsets](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0136-single-number) |
 ## Bracket Sequences
 |  |
 | ------- |
