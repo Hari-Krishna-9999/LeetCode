@@ -153,6 +153,7 @@ Solutions are organized by core computer science concepts and data structures:
 | ------- |
 | [0002-add-two-numbers](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0002-add-two-numbers) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0371-sum-of-two-integers](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0371-sum-of-two-integers) |
 ## Stack
 |  |
 | ------- |
@@ -507,6 +508,7 @@ Solutions are organized by core computer science concepts and data structures:
 | [0090-subsets-ii](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0191-number-of-1-bits) |
+| [0371-sum-of-two-integers](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0371-sum-of-two-integers) |
 ## Bracket Sequences
 |  |
 | ------- |
