@@ -152,6 +152,7 @@ Solutions are organized by core computer science concepts and data structures:
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0002-add-two-numbers) |
+| [0067-add-binary](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0371-sum-of-two-integers](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0371-sum-of-two-integers) |
 ## Stack
@@ -241,6 +242,7 @@ Solutions are organized by core computer science concepts and data structures:
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0022-generate-parentheses) |
+| [0067-add-binary](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0093-restore-ip-addresses) |
@@ -255,6 +257,7 @@ Solutions are organized by core computer science concepts and data structures:
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0067-add-binary) |
 | [0735-asteroid-collision](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0735-asteroid-collision) |
 ## Range Minimum/Maximum Query
 |  |
@@ -504,6 +507,7 @@ Solutions are organized by core computer science concepts and data structures:
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0136-single-number) |
