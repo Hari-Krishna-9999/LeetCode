@@ -123,6 +123,7 @@ Solutions are organized by core computer science concepts and data structures:
 | [0150-evaluate-reverse-polish-notation](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0198-house-robber](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0200-number-of-islands) |
+| [0213-house-robber-ii](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0219-contains-duplicate-ii](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0219-contains-duplicate-ii) |
@@ -189,6 +190,7 @@ Solutions are organized by core computer science concepts and data structures:
 | [0120-triangle](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0120-triangle) |
 | [0131-palindrome-partitioning](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0542-01-matrix) |
