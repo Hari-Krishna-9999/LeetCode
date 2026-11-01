@@ -138,6 +138,7 @@ Solutions are organized by core computer science concepts and data structures:
 | [0455-assign-cookies](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [0518-coin-change-ii](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0542-01-matrix) |
 | [0624-maximum-distance-in-arrays](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0695-max-area-of-island](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0695-max-area-of-island) |
@@ -195,6 +196,7 @@ Solutions are organized by core computer science concepts and data structures:
 | [0322-coin-change](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0435-non-overlapping-intervals) |
+| [0518-coin-change-ii](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0542-01-matrix) |
 ## Greedy
 |  |
@@ -486,10 +488,12 @@ Solutions are organized by core computer science concepts and data structures:
 | ------- |
 | [0322-coin-change](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0518-coin-change-ii](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0518-coin-change-ii) |
 ## Complete Knapsack
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0322-coin-change) |
+| [0518-coin-change-ii](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0518-coin-change-ii) |
 ## Timsort
 |  |
 | ------- |
