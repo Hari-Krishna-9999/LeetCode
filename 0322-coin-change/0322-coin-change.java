@@ -11,9 +11,6 @@ class Solution {
         if(idx >= nums.length || sum <= 0){
             return sum == 0 ? 0 : INF;
         }
-        // if(sum == 0){
-        //     return 0;
-        // }
         if(dp[idx][sum] == null){
             int pick = 1 + helper(nums , idx , sum - nums[idx]);
             int notpick = helper(nums , idx + 1, sum);
