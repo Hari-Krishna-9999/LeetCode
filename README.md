@@ -156,6 +156,7 @@ Solutions are organized by core computer science concepts and data structures:
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0002-add-two-numbers) |
+| [0062-unique-paths](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0371-sum-of-two-integers](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0371-sum-of-two-integers) |
@@ -188,6 +189,7 @@ Solutions are organized by core computer science concepts and data structures:
 | [0022-generate-parentheses](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0062-unique-paths) |
 | [0085-maximal-rectangle](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0120-triangle](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0120-triangle) |
 | [0131-palindrome-partitioning](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0131-palindrome-partitioning) |
@@ -620,4 +622,8 @@ Solutions are organized by core computer science concepts and data structures:
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
