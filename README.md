@@ -204,6 +204,7 @@ Solutions are organized by core computer science concepts and data structures:
 | [0435-non-overlapping-intervals](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0518-coin-change-ii](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0542-01-matrix) |
+| [1143-longest-common-subsequence](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/1143-longest-common-subsequence) |
 ## Greedy
 |  |
 | ------- |
@@ -268,6 +269,7 @@ Solutions are organized by core computer science concepts and data structures:
 | [0402-remove-k-digits](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0402-remove-k-digits) |
 | [0752-open-the-lock](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0752-open-the-lock) |
 | [0763-partition-labels](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0763-partition-labels) |
+| [1143-longest-common-subsequence](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/1143-longest-common-subsequence) |
 ## Simulation
 |  |
 | ------- |
@@ -632,4 +634,8 @@ Solutions are organized by core computer science concepts and data structures:
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0062-unique-paths) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
