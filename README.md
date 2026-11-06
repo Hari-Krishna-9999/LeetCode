@@ -197,6 +197,7 @@ Solutions are organized by core computer science concepts and data structures:
 | [0063-unique-paths-ii](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0085-maximal-rectangle) |
+| [0115-distinct-subsequences](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0120-triangle) |
 | [0131-palindrome-partitioning](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0198-house-robber) |
@@ -264,6 +265,7 @@ Solutions are organized by core computer science concepts and data structures:
 | [0071-simplify-path](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0093-restore-ip-addresses) |
+| [0115-distinct-subsequences](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0208-implement-trie-prefix-tree](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
