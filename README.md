@@ -208,6 +208,7 @@ Solutions are organized by core computer science concepts and data structures:
 | [0322-coin-change](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0435-non-overlapping-intervals) |
+| [0516-longest-palindromic-subsequence](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0542-01-matrix) |
 | [1143-longest-common-subsequence](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/1143-longest-common-subsequence) |
@@ -276,6 +277,7 @@ Solutions are organized by core computer science concepts and data structures:
 | [0211-design-add-and-search-words-data-structure](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0402-remove-k-digits](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0402-remove-k-digits) |
+| [0516-longest-palindromic-subsequence](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0752-open-the-lock](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0752-open-the-lock) |
 | [0763-partition-labels](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0763-partition-labels) |
 | [1143-longest-common-subsequence](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/1143-longest-common-subsequence) |
