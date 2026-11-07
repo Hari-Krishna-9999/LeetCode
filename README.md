@@ -123,6 +123,7 @@ Solutions are organized by core computer science concepts and data structures:
 | [0130-surrounded-regions](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0198-house-robber](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0200-number-of-islands) |
@@ -200,6 +201,7 @@ Solutions are organized by core computer science concepts and data structures:
 | [0115-distinct-subsequences](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0120-triangle) |
 | [0131-palindrome-partitioning](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0300-longest-increasing-subsequence) |
@@ -234,6 +236,7 @@ Solutions are organized by core computer science concepts and data structures:
 | [0127-word-ladder](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0208-implement-trie-prefix-tree](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
@@ -268,6 +271,7 @@ Solutions are organized by core computer science concepts and data structures:
 | [0115-distinct-subsequences](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -546,6 +550,7 @@ Solutions are organized by core computer science concepts and data structures:
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 ## Algorithm X
@@ -647,4 +652,12 @@ Solutions are organized by core computer science concepts and data structures:
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0300-longest-increasing-subsequence) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
