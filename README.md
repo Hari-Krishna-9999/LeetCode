@@ -102,6 +102,7 @@ Solutions are organized by core computer science concepts and data structures:
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0039-combination-sum) |
@@ -250,6 +251,7 @@ Solutions are organized by core computer science concepts and data structures:
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0015-3sum) |
 | [0047-permutations-ii](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0047-permutations-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0295-find-median-from-data-stream) |
@@ -362,6 +364,7 @@ Solutions are organized by core computer science concepts and data structures:
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0143-reorder-list) |
