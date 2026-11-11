@@ -103,6 +103,7 @@ Solutions are organized by core computer science concepts and data structures:
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0037-sudoku-solver) |
@@ -218,6 +219,7 @@ Solutions are organized by core computer science concepts and data structures:
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0134-gas-station) |
@@ -366,6 +368,7 @@ Solutions are organized by core computer science concepts and data structures:
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/Hari-Krishna-9999/LeetCode/tree/master/0141-linked-list-cycle) |
